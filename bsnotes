@@ -1,0 +1,43 @@
+Boostrap Notes
+
+
+BUTTONS
+___________________________________________________
+
+Buttons are used in bootstrap to denote clickable texts which make it easy to establish buttons
+
+"btn" "btn-block" and "btn-primary" "btn-info" are just some of the classes used. - predefined colors
+
+
+Bootstrap comes with several pre-defined colors for buttons. The btn-danger class is the button color you'll use to notify users that the button performs a destructive action.
+E.G. --- <button class="btn btn-block btn-danger">Delete</button>
+
+BOOTSRAP GRID ELEMENTS
+________________________________________________
+Bootstrap uses a responsive 12 column grid system, which makes it easy to put elements into rows and specify each element's relative width.
+Most of Bootstrap's classes can be applied to a div element.
+
+
+You can use spans to create inline elements. Remember when we used the btn-block class to make the button fill the entire row.
+
+Icons - Awsome Fonts
+___________________________________________________
+<i> fa fa-info</i> will add info to your element
+
+You can add the fa-paper-plane Font Awesome icon by adding <i class="fa fa-paper-plane"></i> within your submit button element.
+
+Responsively Style Checkboxes
+________________________________________________________
+You can use Bootstrap's col-xs-* classes on form elements, too!
+This way, our checkboxes will be evenly spread out across the page, regardless of how wide the screen resolution is.
+
+
+MOBILE RESPONSIVENESS
+******************************************
+Wrap elements within a div (e.g. - "container-fluid")
+
+BOOTSTRAP WELLS
+******************************************
+Bootstrap has a class called well that can create a visual sense of depth for your columns.
+
+Nest one div element with the class well within each of your col-xs-6 div elements.

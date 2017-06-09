@@ -1,0 +1,75 @@
+@font-face{
+  font-family:'elec';
+  src: url('elec.woff2') format('woff2'),
+        url('elec.woff') format('woff'),
+        url('elec.ttf') format('truetype');
+      }
+
+      /*
+       * Start Bootstrap - Full Slider (http://startbootstrap.com/)
+       * Copyright 2013-2016 Start Bootstrap
+       * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+       */
+
+      html,
+      body {
+          height: 100%;
+      }
+
+      .carousel,
+      .item,
+      .active {
+          height: 100%;
+      }
+
+      .carousel-inner {
+          height: 100%;
+      }
+
+      /* Background images are set within the HTML using inline CSS, not here */
+
+      .fill {
+          width: 100%;
+          height: 100%;
+          background-position: center;
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          background-size: cover;
+          -o-background-size: cover;
+      }
+
+      footer {
+          margin: 50px 0;
+      }
+
+
+body{
+  width: 100%;
+  margin: auto;
+  background: #373737;
+}
+
+
+p{
+font-size: 25px; font-family: Helvetica
+}
+
+.navbar-brand{
+  font-size: 50px; font-family: "elec";
+}
+
+h2{
+  font-family: "elec";
+}
+
+/*
+.container{
+  width: 100%;
+  display: inline-block;
+  margin:0 auto;
+  position: relative;
+  z-index: auto
+  padding:inherit;
+
+}
+*/

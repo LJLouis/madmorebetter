@@ -1,0 +1,33 @@
+
+.cb-slideshow li:nth-child(1) span {
+    background-image: url(images/kbf.jpg);
+}
+.cb-slideshow li:nth-child(2) span {
+    background-image: url(images/scf.jpg);
+    animation-delay: 6s;
+}
+.cb-slideshow li:nth-child(3) span {
+    background-image: url(css/images/kbt.jpg);
+    animation-delay: 12s;
+}
+.cb-slideshow li:nth-child(4) span {
+    background-image: url(css/images/sc1.jpg);
+    animation-delay: 18s;
+}
+.cb-slideshow li:nth-child(5) span {
+    background-image: url(css/image/sc3.bmp);
+    animation-delay: 24s;
+}
+
+.cb-slideshow li:nth-child(2) div {
+    animation-delay: 6s;
+}
+.cb-slideshow li:nth-child(3) div {
+    animation-delay: 12s;
+}
+.cb-slideshow li:nth-child(4) div {
+    animation-delay: 18s;
+}
+.cb-slideshow li:nth-child(5) div {
+    animation-delay: 24s;
+}

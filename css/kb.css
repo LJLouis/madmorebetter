@@ -1,0 +1,57 @@
+
+.slideshow {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  overflow: hidden;
+}
+
+.slideshow-image {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: no-repeat 50% 50%;
+  background-size: cover;
+  -webkit-animation-name: kenburns;
+  animation-name: kenburns;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 16s;
+  animation-duration: 16s;
+  opacity: 0;
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+
+div.container{
+
+}
+
+
+.slideshow-image:nth-child(1) {
+  -webkit-animation-name: kenburns-1;
+  animation-name: kenburns-1;
+  z-index: 3;
+}
+
+.slideshow-image:nth-child(2) {
+  -webkit-animation-name: kenburns-2;
+  animation-name: kenburns-2;
+  z-index: 2;
+}
+
+.slideshow-image:nth-child(3) {
+  -webkit-animation-name: kenburns-3;
+  animation-name: kenburns-3;
+  z-index: 1;
+}
+
+.slideshow-image:nth-child(4) {
+  -webkit-animation-name: kenburns-4;
+  animation-name: kenburns-4;
+  z-index: 0;
+}

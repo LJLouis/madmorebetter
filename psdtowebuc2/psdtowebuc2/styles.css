@@ -1,0 +1,167 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1280px;
+	 height: 800px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1280px;
+	 height: 800px;
+	 z-index:1;
+} 
+
+ #Layer3 
+{ 
+	 left: 339px; 
+	 top: 284px; 
+	 position: absolute; 
+	 width: 197px;
+	 height: 232px;
+	 z-index:2;
+} 
+
+ #THISPAGEISUNDERCONST 
+{ 
+	 left: 465px; 
+	 top: 289px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 26px;
+	 z-index:3;
+} 
+
+ #GO 
+{ 
+	 left: 794px; 
+	 top: 390px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 20px;
+	 z-index:4;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 476px; 
+	 top: 327px; 
+	 position: absolute; 
+	 width: 496px;
+	 height: 49px;
+	 z-index:5;
+} 
+
+ #Layer5 
+{ 
+	 left: 501px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 33px;
+	 z-index:6;
+} 
+
+ #YourEMailAddress 
+{ 
+	 left: 513px; 
+	 top: 396px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 9px;
+	 z-index:7;
+} 
+
+ #Backgroundcopy 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1280px;
+	 height: 800px;
+	 z-index:8;
+} 
+
+ #Layer3copy 
+{ 
+	 left: 542px; 
+	 top: 148px; 
+	 position: absolute; 
+	 width: 197px;
+	 height: 232px;
+	 z-index:9;
+} 
+
+ #THISPAGEISUNDERCONST_0 
+{ 
+	 left: 391px; 
+	 top: 408px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 26px;
+	 z-index:10;
+} 
+
+ #GOcopy 
+{ 
+	 left: 787px; 
+	 top: 528px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 20px;
+	 z-index:11;
+} 
+
+ #Loremipsumdolorsitam_0 
+{ 
+	 left: 402px; 
+	 top: 454px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 49px;
+	 z-index:12;
+} 
+
+ #Layer5copy 
+{ 
+	 left: 494px; 
+	 top: 522px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 33px;
+	 z-index:13;
+} 
+
+ #YourEMailAddresscopy 
+{ 
+	 left: 506px; 
+	 top: 534px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 9px;
+	 z-index:14;
+} 
+
+ #Layer6 
+{ 
+	 left: -1352px; 
+	 top: -256px; 
+	 position: absolute; 
+	 width: 4000px;
+	 height: 1333px;
+	 z-index:15;
+} 
